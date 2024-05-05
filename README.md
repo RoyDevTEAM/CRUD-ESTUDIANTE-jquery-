@@ -26,8 +26,8 @@ Como desarrollador Full Stack con una pasión por el desarrollo de soluciones co
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/>
+ <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="48" height="48"/>  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" width="40" height="40"/>
 </div>
 
