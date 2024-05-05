@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.canva.com/design/DAGEVkJ0pbg/SxmeMYbknVVbwOpQxzj6nQ/view?utm_content=DAGEVkJ0pbg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" alt="Banner de RoyDevTEAM" style="border-radius: 10px;">
+  <img src="https://www.canva.com/design/DAGEVkJ0pbg/LzlC7Sfu1HAlgMOBunBtig/edit?utm_content=DAGEVkJ0pbg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner de RoyDevTEAM" style="border-radius: 10px;">
 </div>
 
 <h1 align="center" style="color: #ddd;">🌟 Hola, soy RoyDevTEAM 🌟</h1>
