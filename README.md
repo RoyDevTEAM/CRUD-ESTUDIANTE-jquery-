@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGEVkJ0pbg&#x2F;APsSnRjMb6TA3kc-jrlCBw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" alt="Banner de RoyDevTEAM" style="border-radius: 10px;">
-</div>
+
 
 <h1 align="center" style="color: #ddd;">🌟 Hola, soy RoyDevTEAM 🌟</h1>
 <p align="center" style="color: #ccc;">Desarrollador Full Stack | Experto en .NET Core, Angular, PHP | 🚀 Impulsando ideas con código</p>
@@ -48,6 +46,3 @@ Como desarrollador Full Stack con una pasión por el desarrollo de soluciones co
 
 ---
 
-<div align="center">
-  <img src="https://via.placeholder.com/500x100/333/fff?text=Gracias+por+visitar+mi+perfil" alt="Footer" style="border-radius: 10px;">
-</div>
