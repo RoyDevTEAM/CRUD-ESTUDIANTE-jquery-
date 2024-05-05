@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/500x150?text=RoyDevTEAM+Banner" alt="Banner de RoyDevTEAM" style="border-radius: 10px;">
+  <img src="https://via.placeholder.com/500x150/333/fff?text=RoyDevTEAM+Banner" alt="Banner de RoyDevTEAM" style="border-radius: 10px;">
 </div>
 
 <h1 align="center" style="color: #ddd;">🌟 Hola, soy RoyDevTEAM 🌟</h1>
@@ -26,8 +26,9 @@ Como desarrollador Full Stack con una pasión por el desarrollo de soluciones co
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"/>
- <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="48" height="48"/>  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" width="40" height="40"/>
 </div>
 
@@ -48,5 +49,5 @@ Como desarrollador Full Stack con una pasión por el desarrollo de soluciones co
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/500x100?text=Gracias+por+visitar+mi+perfil" alt="Footer" style="border-radius: 10px;">
+  <img src="https://via.placeholder.com/500x100/333/fff?text=Gracias+por+visitar+mi+perfil" alt="Footer" style="border-radius: 10px;">
 </div>
