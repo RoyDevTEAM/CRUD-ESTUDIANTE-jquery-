@@ -1,53 +1,56 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Banner sobre RoyDevTEAM">
+  <img src="https://via.placeholder.com/500x150?text=RoyDevTEAM+Banner" alt="Banner de RoyDevTEAM">
 </div>
 
-<h1 align="center">Hola, soy RoyDevTEAM 👋</h1>
-<p align="center">Desarrollador apasionado por crear soluciones innovadoras con .NET Core, Angular, PHP y más.</p>
+<h1 align="center">¡Hola 👋! Soy RoyDevTEAM</h1>
+<p align="center">🚀 Desarrollador Full Stack | 🎯 Enfoque en .NET Core, Angular y PHP | ❤️ Apasionado por la tecnología y el código limpio</p>
 
 <p align="center">
-  <!-- Agrega íconos de tus redes sociales o webs profesionales aquí -->
+  <!-- Redes sociales -->
   <a href="https://linkedin.com/in/roydevteam">
-    <img src="https://img.shields.io/badge/LinkedIn-RoyDevTEAM-blue?style=flat-square&logo=linkedin">
+    <img alt="LinkedIn - RoyDevTEAM" src="https://img.shields.io/badge/LinkedIn-RoyDevTEAM-blue?style=flat&logo=linkedin">
   </a>
   <a href="https://twitter.com/roydevteam">
-    <img src="https://img.shields.io/badge/Twitter-RoyDevTEAM-blue?style=flat-square&logo=twitter">
+    <img alt="Twitter - RoyDevTEAM" src="https://img.shields.io/badge/Twitter-RoyDevTEAM-blue?style=flat&logo=twitter">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 🌟 Sobre Mí
 
-Soy un desarrollador con amplia experiencia en **.NET Core**, **Angular**, **PHP con Laravel**, y **Ionic**. Me especializo en el desarrollo de back-end y front-end, creando aplicaciones robustas, escalables y eficientes. Tengo una sólida comprensión de **SQL Server** y **MySQL**, y soy competente en múltiples lenguajes de programación como **C#**, **Python**, y **JavaScript**.
+Soy un **Desarrollador Full Stack** con experiencia en `Angular`, `.NET Core`, `PHP/Laravel` y `Ionic`. Me dedico a construir soluciones software que no solo cumplen con los requisitos funcionales, sino que también son robustas, seguras y escalables.
 
-## 🛠 Tecnologías y Herramientas
+👥 **Trabajo en equipo**: Creo firmemente en el poder del trabajo colaborativo.  
+📈 **Orientado a objetivos**: Siempre en búsqueda de superar cada meta establecida.  
+🌱 **Aprendizaje continuo**: Constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades.
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server"/>
-  <!-- Más íconos según tus tecnologías -->
-</div>
-
-## 🌱 Proyectos Destacados
-
-- **API con .NET Core**: Desarrollo de una API REST para manejar operaciones de negocio.
-- **Tienda Online con Angular y PHP**: Implementación de un sistema e-commerce completo con Angular en el front-end y PHP/Laravel en el back-end.
-- **Aplicación Móvil con Ionic**: Creación de una aplicación móvil multiplataforma para servicios de delivery.
-
-## 📫 Contacto
-
-Si estás interesado en trabajar conmigo o quieres saber más sobre mis proyectos:
-- Envíame un correo a [roydevteam@example.com](mailto:roydevteam@example.com)
-- Conéctate conmigo en [LinkedIn](https://linkedin.com/in/roydevteam)
-
-## 📄 Licencia
-
-Todo el contenido público en este perfil está bajo la licencia [MIT](https://opensource.org/licenses/MIT) a menos que se indique lo contrario.
+## 🛠️ Tecnologías
 
 <div align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="48" height="48"/>
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="48" height="48"/>
+</div>
+
+## 🌐 Proyectos Destacados
+
+- **API con .NET Core**: Una API robusta que gestiona operaciones complejas en el sector financiero.
+- **E-commerce con Angular y PHP**: Un sistema completo de comercio electrónico que soporta transacciones en tiempo real y alta concurrencia.
+- **App móvil con Ionic**: Aplicación para servicios de entrega que optimiza rutas y reduce tiempos de espera para los usuarios.
+
+## 📫 Cómo Contactarme
+
+📧 Email: [roydevteam@example.com](mailto:roydevteam@example.com)  
+💬 LinkedIn: [Conectemos](https://linkedin.com/in/roydevteam)
+
+---
+
+<div align="center">
+  <strong>¡Gracias por visitar mi perfil!</strong>
+  <br>
+  <br>
   <img src="https://via.placeholder.com/150" alt="Footer Image with Logo">
 </div>
