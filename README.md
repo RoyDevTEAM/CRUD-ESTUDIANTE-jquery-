@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/500x150/333/fff?text=RoyDevTEAM+Banner" alt="Banner de RoyDevTEAM" style="border-radius: 10px;">
+  <img src="https://www.canva.com/design/DAGEVkJ0pbg/RMte2mEmP7SsuDwZ08mNKg/view?utm_content=DAGEVkJ0pbg&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Banner de RoyDevTEAM" style="border-radius: 10px;">
 </div>
 
 <h1 align="center" style="color: #ddd;">🌟 Hola, soy RoyDevTEAM 🌟</h1>
